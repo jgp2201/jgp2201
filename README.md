@@ -1,47 +1,21 @@
-# 👋 Hi, I'm Jayvardhan Patel!
+# 💫 About Me:
+---
 
-### 🚀 Full Stack Web Developer | 💡 Cloud Enthusiast | 📊 Analytics Learner
-
-I love building secure, scalable web applications and exploring cloud technologies.
-Currently working on **ChatUp** – a privacy-focused chat application with translation features.  
+👋 Hi, I'm Jayvardhan Patel!. I’m a Computer Engineering student at **DEPSTAR**, learning **Java development** and improving my backend and problem-solving skills through hands-on projects. I have worked on **Materoom**, a smart roomate and room finder web app based on users compatibility, and **ChatUp**, a secure real-time chat application focusing on privacy and smooth communication along with chatbot, custom wallpapers and Text translation. I enjoy experimenting with new tools, writing better code every day, and continuously learning by doing.I'm actively involved in coding challenges and continuously seek to grow my skills. Check out my projects here on GitHub or connect with me to collaborate!
 
 ---
 
-### 💼 Skills & Technologies
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Cloud:** AWS EC2, S3, Elastic Beanstalk (Learning)
-- **Other:** Git, REST APIs, Regex, Linux basics
+### 🧰 Tech Stack
+`C++` `Java` `HTML5` `CSS3` `JavaScript` `PHP` `.NET` `React` `Bootstrap` `Laravel` `Apache` `MySQL` `MongoDB` `Adobe Photoshop` `Canva`
 
 ---
 
-### 📌 Current Projects
-| Project | Description | Tech |
-|---------|------------|------|
-| **ChatUp** | Secure chat app with translation | MERN + WebSockets |
-| **SafeQuiz** | Anti-cheat quiz platform | MERN |
-| **Resume Builder** | Create & download college-format resumes | JS + PDF |
+### 🎯 Goals for 2026
+Master Java & backend development • Contribute to open-source • Deploy full-stack apps
 
 ---
 
-### 📊 What's Next?
-- Preparing for **Java interviews**
-- Learning **Dynamic Scalability Architecture for Cloud Computing**
-- Building **Analytics dashboards**
+### 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/jayvardhan-patel-579111253/) • [Instagram]((https://www.instagram.com/jayv.2201/))*
 
----
-
-### 🎯 Goals for 2025
-- Contribute to **open-source**
-- Deploy scalable cloud apps
-- Improve **DSA & system design**
-
----
-
-### 🌐 Connect with me
-[LinkedIn](#) • [Twitter](#) • [Portfolio](#) *(Add your links here!)*  
-
----
-
-> *"Every line of code brings me closer to solving real-world problems."*
+> *"I learn by building — every project makes me better."*
